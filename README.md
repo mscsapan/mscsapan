@@ -1,11 +1,11 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Carter+One&size=25&color=AE0001&center=true&width=600&lines=Assalamualaikum+This+is+Mohammad+Ali;A+Passinate+Flutter+Lover">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Carter+One&size=25&color=AE0001&center=true&width=600&lines=Assalamualaikum+🙋‍♀️+This+is+Mohammad+Ali;A+Passinate+Flutter+Lover">
 </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/c6/ff/a5c6ff165995f48ef4351f5848a5ff2a.gif">
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 ✔ I’m currently working with Android App Development (Flutter)<br>
-- 🌱 I’m currently learning more about Node.js as Backend Service.<br>
+- 🌱 I’m currently learning NodeJs,ExpressJs as Backend Service.<br>
 <p align="left">
   <img src="https://img.shields.io/github/followers/Bdamir98?label=Followers&logo=GitHub&style=for-the-badge">
   <img src="https://gpvc.arturio.dev/mscsapan">
