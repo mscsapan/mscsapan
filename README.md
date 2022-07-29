@@ -1,11 +1,11 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Carter+One&size=25&color=AE0001&center=true&width=600&lines=Assalamualaikum+🙋‍;This+is+Mohammad+Ali;A+Passinate+Flutter+Lover">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Carter+One&size=25&color=AE0001&center=true&width=600&lines=Assalamualaikum+This+is+Mohammad+Ali;A+Passinate+Flutter+Lover">
 </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/c6/ff/a5c6ff165995f48ef4351f5848a5ff2a.gif">
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 ✔ I’m currently working with Android App Development (Flutter)<br>
-- 🌱 I’m currently learning NodeJs,ExpressJs as Backend Service.<br>
+- 🌱 I’m currently learning more about Node.js as Backend Service.<br>
 <p align="left">
   <img src="https://img.shields.io/github/followers/mscsapan?label=Followers&logo=GitHub&style=for-the-badge">
   <img src="https://gpvc.arturio.dev/mscsapan">
@@ -40,17 +40,14 @@
 </p><br>
 <img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Connect with me<br><br>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shohel-amir-296106154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shohel-amir-296106154/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/shohel.amir.90/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shohel.amir.90/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/shohel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/shohel" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/shohelamir1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/shohelamir1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucgkbq4-5todybehggjr1vwg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucgkbq4-5todybehggjr1vwg" height="30" width="40" /></a>
-</p> <br>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mscsapan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mscsapan/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/mscsapan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mscsapan/" height="30" width="40" /></a>
+<br>
 <p align="center">
-   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&myquote=Learning to code is learning to create and innovate"></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&myquote=Don\'t Give up, You'll be Success"></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <p align="center">
-   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b>
+   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>GitHub Activities</b>
 </p>
 
 <p align = "center">
@@ -61,7 +58,3 @@
 <p align="center">
   <img src="https://www.gifcen.com/wp-content/uploads/2021/05/the-end-gif-12.gif">
 </p>
-
-
-
-
