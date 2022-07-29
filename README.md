@@ -54,16 +54,13 @@
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Bdamir98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Bdamir98&theme=dark&hide_border=true" width = 400>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bdamir98&theme=light&hide_langs_below=1" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=mscsapan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mscsapan&theme=dark&hide_border=true" width = 400>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscsapan&theme=light&hide_langs_below=1" />
 </p><br>
 <p align="center">
   <img src="https://www.gifcen.com/wp-content/uploads/2021/05/the-end-gif-12.gif">
 </p>
-
-
-
 
 
 
