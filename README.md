@@ -1,6 +1,6 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Carter+One&size=25&color=AE0001&center=true&width=600&lines=Assalamualaikum 🙋‍+This+is+Mohammad+Ali;A+Passinate+Flutter+Lover">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Carter+One&size=25&color=AE0001&center=true&width=600&lines=Assalamualaikum+This+is+Mohammad+Ali;A+Passinate+Flutter+Lover">
 </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/c6/ff/a5c6ff165995f48ef4351f5848a5ff2a.gif">
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
