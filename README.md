@@ -1,11 +1,11 @@
-#<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif">
 <img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" height="400" width="1200">
 
 <img src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" height="400" width="1200">
 <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" height="400" width="1200">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Carter+One&size=25&color=AE0001&center=true&width=600&lines=Assalamualaikum+🙋‍♀️;This+is+Mohammad+Ali;A+Very+Passinate+Flutter+Lover">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Carter+One&size=25&color=AE0001&center=true&width=600&lines=Assalamua'laikum+🙋‍♀️;This+is+Mohammad+Ali;A+Very+Passinate+Flutter+Lover">
 </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/c6/ff/a5c6ff165995f48ef4351f5848a5ff2a.gif">
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
