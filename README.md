@@ -61,7 +61,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscsapan&theme=light&hide_langs_below=1" />
 </p><br>
 <p align="center">
-<img src="https://github.com/mscsapan/mscsapan/blob/main/images/walking.gif">
+<img src="https://github.com/mscsapan/mscsapan/blob/main/images/walking.gif" height="300" width="300">
 </p><br>
 <p align="center">
   <img src="https://www.gifcen.com/wp-content/uploads/2021/05/the-end-gif-12.gif">
