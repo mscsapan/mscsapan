@@ -61,7 +61,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscsapan&theme=light&hide_langs_below=1" />
 </p><br>
 <p align="center">
-  Thank For Visit
 <img src="https://github.com/mscsapan/mscsapan/blob/main/images/walking.gif">
 </p><br>
 <p align="center">
