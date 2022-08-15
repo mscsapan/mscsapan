@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Github</title>
-</head>
-
-<body>
-    <p align="center">
+<p align="center">
         <img
             src="https://readme-typing-svg.herokuapp.com?font=Carter+One&size=25&color=AE0001&center=true&width=600&lines=Assalamua'laikum+🙋‍♀️;This+is+Mohammad+Ali;A+Very+Passinate+Flutter+Lover">
     </p>
@@ -86,7 +75,3 @@
     <p align="center">
         <img src="https://www.gifcen.com/wp-content/uploads/2021/05/the-end-gif-12.gif">
     </p>
-
-</body>
-
-</html>
