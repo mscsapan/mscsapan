@@ -36,7 +36,7 @@
  </p><br>
 <!-- visitors count -->
  <!-- <a href="https://u8views.com/github/mscsapan"><img src="https://u8views.com/api/v1/github/profiles/58435612/views/day-week-month-total-count.svg"></a> -->
- [![Mohammad Ali profile views](https://u8views.com/api/v1/github/profiles/58435612/views/day-week-month-total-count.svg)](https://u8views.com/github/mscsapan) ,/br>
+ <!-- [![Mohammad Ali profile views](https://u8views.com/api/v1/github/profiles/58435612/views/day-week-month-total-count.svg)](https://u8views.com/github/mscsapan) ,/br> -->
  <a href="https://u8views.com/github/mscsapan"><img src="https://u8views.com/api/v1/github/profiles/58435612/views/day-week-month-total-count.svg"></a>
 
 <img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;How to Reach Meeee<br>
