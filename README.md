@@ -9,8 +9,8 @@
     ✔ I’m currently working with Android App Development (Flutter)<br>
     - 🌱 I’m currently learning about NodeJS, ExpressJs as Backend Service.<br>
     <p align="left">
-        <img src="https://img.shields.io/github/followers/mscsapan?label=Followers&logo=GitHub&style=for-the-badge">
-        <img src="https://gpvc.arturio.dev/mscsapan">
+       <img src="https://img.shields.io/github/followers/mscsapan?label=Followers&logo=GitHub&style=for-the-badge"> 
+        <!-- <img src="https://gpvc.arturio.dev/mscsapan"> -->
     </p>
     
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;🔥 Languages & Abilities
