@@ -7,7 +7,7 @@
     <img align="right" width=200px height=200px alt="side_sticker"
         src="https://github.com/mscsapan/mscsapan/blob/main/images/octocat-meditating.gif?raw=true" />
     ✔ I’m currently working with Android App Development (Flutter)<br>
-    - 🌱 I’m currently learning about NodeJS, ExpressJs as Backend Service.<br>
+    - 🌱 I’m currently learning about Python, Django as Backend Service.<br>
     <p align="left">
        <img src="https://img.shields.io/github/followers/mscsapan?label=Followers&logo=GitHub&style=for-the-badge"> 
         <!-- <img src="https://gpvc.arturio.dev/mscsapan"> -->
