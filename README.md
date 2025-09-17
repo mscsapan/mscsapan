@@ -64,17 +64,7 @@
 
 ---
 
-## 📊 GitHub Activities  
-
-<p align="center">
-  <!-- Fixed Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mscsapan&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mscsapan&theme=tokyonight&hide_border=true" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscsapan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git" />&nbsp;<i><b>GitHub Activities</b> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mscsapan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width=400> <img src="https://github-readme-streak-stats.herokuapp.com?user=mscsapan&theme=dark&hide_border=true" width=400> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscsapan&theme=light&hide_langs_below=1" /> <img src="https://github.com/mscsapan/mscsapan/blob/main/images/octocat-dancing.gif?raw=true" /></p><br> <p align="left"> <img src="https://www.gifcen.com/wp-content/uploads/2021/05/the-end-gif-12.gif"> </p>
 
 ---
 
