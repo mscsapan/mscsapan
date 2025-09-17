@@ -57,27 +57,25 @@
 
 ---
 
+## 📈 Visitors & Followers  
+
+<p align="center">
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/mscsapan?label=Followers&logo=github&style=for-the-badge&color=00C4B4" />
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=mscsapan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <!-- Total Visitors -->
+  <img src="https://u8views.com/api/v1/github/profiles/58435612/views/total-count.svg" alt="total visitors" />
+</p>
+
+---
+
 ## 🚀 Projects Spotlight  
 ➡️ [My Flutter Projects](https://github.com/mscsapan?tab=repositories&q=&type=&language=dart&sort=)  
 ➡️ [Backend Experiments](https://github.com/mscsapan?tab=repositories&q=&type=&language=python&sort=)  
 ➡️ [Full-Stack Apps](https://github.com/mscsapan?tab=repositories&q=full-stack)  
 
 ---
-
-
-## 📈 Visitors & Followers  
-
-<p align="center">
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/mscsapan?label=Followers&logo=github&style=for-the-badge&color=00C4B4" />
-
-  <!-- Views (daily, weekly, monthly, total) from u8views -->
-  <img src="https://u8views.com/api/v1/github/profiles/58435612/views/day.svg" alt="today's visitors" />
-  <img src="https://u8views.com/api/v1/github/profiles/58435612/views/week.svg" alt="this week's visitors" />
-  <img src="https://u8views.com/api/v1/github/profiles/58435612/views/month.svg" alt="this month's visitors" />
-  <img src="https://u8views.com/api/v1/github/profiles/58435612/views/total.svg" alt="total visitors" />
-</p>
-
 
 ## 📊 GitHub Activities  
 
@@ -93,6 +91,7 @@
 ---
 
 ## 📈 Contribution Graph  
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mscsapan&theme=react-dark&hide_border=true&area=true"/>
 </p>
