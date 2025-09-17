@@ -1,28 +1,28 @@
-<!-- Animated header / banner -->
+<!-- Animated header -->
 <p align="center">
   <img src="https://i.gifer.com/ZO78.gif" width="100%" alt="Banner gif"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=00C4B4&center=true&width=600&lines=Assalamua'laikum+🙋‍♂️;My+name+is+Mohammad+Ali;Flutter+Fanatic+%26+Mobile+App+Developer;Loving+Cross-Platform+Engineering;Always+Learning..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=00C4B4&center=true&width=600&lines=Assalamua'laikum+🙋‍♂️;My+name+is+Mohammad+Ali;Flutter+Fanatic+%26+Mobile+App+Developer;Cross-Platform+Engineer;Always+Learning..." />
 </p>
 
 ---
 
 <img align="right" width=220px alt="meditating octocat" src="https://github.com/mscsapan/mscsapan/blob/main/images/octocat-meditating.gif?raw=true" />
 
-### 👨‍💻 A Little About Me  
-✔ I’m currently working with **Android App Development (Flutter)** <br>  
-🌱 I’m exploring **Python, Django, NodeJS** for backend services <br>  
-🚀 Focus: **Cross‑Platform Apps, APIs, & Clean UI/UX**  
+### 👨‍💻 About Me
+✔ Currently crafting **Android & iOS apps (Flutter)** <br>  
+🌱 Exploring **Python, Django, NodeJS** <br>  
+💡 Obsessed with **beautiful design + functional code** <br>  
+🚀 Goal: Build delightful cross-platform experiences for the masses <br>  
 
 ---
 
 ## 🛠️ Tech Toolbox  
 
 <p align="center">
-
-  <!-- Core Languages & Frameworks -->
+  <!-- Core Languages -->
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-  <!-- Web & UI -->  
+  <!-- Web UI -->  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -57,20 +57,35 @@
 
 ---
 
+## 🚀 Projects Spotlight  
+➡️ [My Flutter Projects](https://github.com/mscsapan?tab=repositories&q=&type=&language=dart&sort=)  
+➡️ [Backend Experiments](https://github.com/mscsapan?tab=repositories&q=&type=&language=python&sort=)  
+➡️ [Full-Stack Apps](https://github.com/mscsapan?tab=repositories&q=full-stack)  
+
+---
+
 ## 📊 GitHub Activities  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mscsapan&&show_icons=true&title_color=00C4B4&icon_color=FDD835&text_color=E0E0E0&bg_color=0c1117" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mscsapan&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" width="400"/>
+  <!-- Fixed Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mscsapan&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mscsapan&theme=tokyonight&hide_border=true" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscsapan&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscsapan&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect with Me  
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mscsapan&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://www.facebook.com/mscsapan/"><img src="/images/facebook.png" height="40px"/></a>
@@ -78,6 +93,12 @@
   <a href="https://www.instagram.com/mscsapan/"><img src="/images/instagram.png" height="40px"/></a>
   <a href="https://twitter.com/Mohammad_Sapan"><img src="/images/twitter.png" height="40px"/></a>
 </p>
+
+---
+
+## ☕ Fun Fact Corner  
+> “Coffee, Code, and a dash of Flutter — that’s the secret recipe.”  
+🐱 Also: Octocats are better dancers than me… but only just.  
 
 ---
 
