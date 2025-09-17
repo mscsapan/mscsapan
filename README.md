@@ -64,6 +64,21 @@
 
 ---
 
+
+## 📈 Visitors & Followers  
+
+<p align="center">
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/mscsapan?label=Followers&logo=github&style=for-the-badge&color=00C4B4" />
+
+  <!-- Views (daily, weekly, monthly, total) from u8views -->
+  <img src="https://u8views.com/api/v1/github/profiles/58435612/views/day.svg" alt="today's visitors" />
+  <img src="https://u8views.com/api/v1/github/profiles/58435612/views/week.svg" alt="this week's visitors" />
+  <img src="https://u8views.com/api/v1/github/profiles/58435612/views/month.svg" alt="this month's visitors" />
+  <img src="https://u8views.com/api/v1/github/profiles/58435612/views/total.svg" alt="total visitors" />
+</p>
+
+
 ## 📊 GitHub Activities  
 
 <p align="center">
